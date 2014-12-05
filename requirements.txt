@@ -1,0 +1,11 @@
+Django==1.7.1
+Fabric==1.10.0
+Unipath==1.0
+argparse==1.2.1
+ecdsa==0.11
+paramiko==1.15.1
+pep257==0.3.2
+pep8==1.5.7
+psycopg2==2.5.4
+pycrypto==2.6.1
+wsgiref==0.1.2
